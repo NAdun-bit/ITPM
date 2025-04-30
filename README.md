@@ -1,8 +1,4 @@
-# ITPM
-#Color palatte
-#34729c
-#6cb1da
-#d1ecff
-#1e5470
-#6ec1d1
-#c8eaec
+# Coin Control - Personal Finance Management
+
+## What is Coin Control?
+Coin Control is a user-friendly personal finance management application designed to help individuals efficiently track expenses, set budgets, and gain financial insights. By providing an intuitive platform, it empowers users to make informed financial decisions and cultivate better saving habits.
